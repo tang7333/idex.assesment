@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 04 May 2019 23:43:44 at https://sites.google.com/s/1SMD-juIy0fjpsQH6gpDHMi8fr9L19Wog/p/15EElhElNZa1gWolGnKOAkBEtwsLfpPCm/edit +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sites.google.com/s/1SMD-juIy0fjpsQH6gpDHMi8fr9L19Wog/p/15EElhElNZa1gWolGnKOAkBEtwsLfpPCm/edit -O1 "C:\My Websites\IT assesment" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:44:04	Error: 	"Not Found" (404) at link https://accounts.google.com/POST (from https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://sites.google.com/s/1SMD-juIy0fjpsQH6gpDHMi8fr9L19Wog/p/15EElhElNZa1gWolGnKOAkBEtwsLfpPCm/edit&followup=https://sites.google.com/s/1SMD-juIy0fjpsQH6gpDHMi8fr9L19Wog/p/15EElhElNZa1gWolGnKOAkBEtwsLfpPCm/edit)
+23:44:04	Error: 	"Not Found" (404) at link https://accounts.google.com/GET (from https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://sites.google.com/s/1SMD-juIy0fjpsQH6gpDHMi8fr9L19Wog/p/15EElhElNZa1gWolGnKOAkBEtwsLfpPCm/edit&followup=https://sites.google.com/s/1SMD-juIy0fjpsQH6gpDHMi8fr9L19Wog/p/15EElhElNZa1gWolGnKOAkBEtwsLfpPCm/edit)
+
+HTTrack Website Copier/3.49-2 mirror complete in 37 seconds : 47 links scanned, 44 files written (5404209 bytes overall) [1986322 bytes received at 53684 bytes/sec], 4986450 bytes transferred using HTTP compression in 39 files, ratio 29%
+(2 errors, 0 warnings, 0 messages)
